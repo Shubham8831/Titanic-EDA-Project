@@ -1,2 +1,4 @@
-programming language - Python
-libraries - pandas, matplotlib, seaborn
+Python
+Pandas
+Matplotlib
+Seaborn
